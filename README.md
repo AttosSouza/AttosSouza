@@ -1,16 +1,16 @@
 # Hey, I'm Atos Souza! 
 
-|💻| Front End Developer 
+|❓| Who am i ?
+
+Hi, I'm Atos Souza, front end developer, i've been study to be a front end since 2020, along the way, i've made some projects by myself, I also like to learn languages, at this moment, i've learned english and spanish by myself and now i'm studying french, yeah, i'm self-taught,  i like to challenge myself, i like to learn so I like to try new things and try to keep growing.
+
+|💻| Front End Jr
 
 |🚀| Web Design
 
-| 🇧🇷 | Born in Salvador Ba, Brazil
+|🌏| Tryna be polyglot
 
-
-## Languages:
-- Portuguese
-- English
-- Spanish
+| 🇧🇷 | Brazil
 
 ## Find me
 
