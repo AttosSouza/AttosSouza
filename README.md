@@ -6,7 +6,7 @@ Hi, I'm Atos Souza, front end developer, i've been study to be a front end since
 
 |💻| Front End Jr
 
-|🚀| Web Design
+|🚀| Web Designer
 
 |🌏| Tryna be polyglot
 
