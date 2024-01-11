@@ -1,10 +1,12 @@
-# Hey, I'm Atos Souza! | 🇧🇷 | Brazil
+# Hey, I'm Atos Souza! 
 
-|❓| Who am i ?
+|❓| Who am i ? | 🇧🇷 | Brazil
 
 Hi, I'm Atos Souza, Full Stack Web Developer with a focus on frontend. 
 
-Well, I like to always learn new things like a new language or something that will help me grow as a profesional and a great person.
+Well, I like to always learn new things like a new language or something
+that will help me grow as a profesional and a great person.
+
 
 # Here is my stack: 
 
