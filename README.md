@@ -1,14 +1,19 @@
-# Hey, I'm Atos Souza! 
+# Hey, I'm Atos Souza! | 🇧🇷 | Brazil
 
 |❓| Who am i ?
 
-Hi, I'm Atos Souza, Front end and Java Developer.
+Hi, I'm Atos Souza, Full Stack Web Developer with a focus on frontend. 
 
-|💻| Front End
+Well, I like to always learn new things like a new language or something that will help me grow as a profesional and a great person.
 
-|☕| Java Developer
+# Here is my stack: 
 
-| 🇧🇷 | Brazil
+Frontend: HTML, CSS, JAVASCRIPT, REACT.JS, TYPESCRIPT
+
+Backend: Node.JS, Express.js
+
+Database: MySql and Sql Server
+
 
 ## Find me
 
