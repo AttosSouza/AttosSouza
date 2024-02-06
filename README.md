@@ -8,7 +8,7 @@ I'm Atos Souza, a full stack web developer with a focus on frontend. Based in Br
 
 Frontend: HTML, CSS, JAVASCRIPT, REACT.JS, TYPESCRIPT
 
-Backend: Node.js and Database
+Backend: Node.js, Express.js and MongoDB
 
 
 ## Find me
