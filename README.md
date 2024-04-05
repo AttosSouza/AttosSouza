@@ -1,6 +1,6 @@
 # Hey, I'm Atos Souza!  Brazil  | 🇧🇷 |
 
-|❓| Who am i ? 
+|❓| Who am i 
 
 Frontend developer focused on JavaScript and React.
 
