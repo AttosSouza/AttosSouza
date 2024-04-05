@@ -2,13 +2,21 @@
 
 |❓| Who am i ? 
 
-I'm Atos Souza, a full stack web developer with a focus on frontend. Based in Brazil, <br/> I am a person who always likes to learn new things, whether it’s a new language <br/> or something that will help me grow both professionally and as a person.
+Frontend developer focused on JavaScript and React.
+
+With over 2 years of experience, I have a strong background in client-side web application development <br/> following the best practices with JavaScript, React.js, TypeScript, and applying good SEO practices.
+
 
 # Here is my stack: 
 
-Frontend: HTML, CSS, JAVASCRIPT, REACT.JS, TYPESCRIPT
+## Frontend: 
+- HTML5, CSS3, JavaScript, React.JS, TypeScript
+- React.js | TailWind CSS | Bootstrap
+- CSS Modules, Styled Components, FlexBox
+- Grid and CSS Pre-Processors With SASS
 
-Backend: Node.js, Express.js and MongoDB
+## Database: 
+- Sql, MySql and MongoDB
 
 
 ## Find me
