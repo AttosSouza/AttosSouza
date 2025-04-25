@@ -2,9 +2,20 @@
 
 **`Backend developer`**
 
-I'm Atos Souza, backend developer with practical experience in software development, Beyond code,<br/>
-i can communicate in both English and Spanish; currently, I am studying French and Russian.
+I'm Atos Souza, Backend developer with practical experience in Java and Spring Boot. 
 
+Development of web applications in the backend using technologies such as Java, Spring Data,<br/>
+Hibernate, JPA, SQL, PostgreSQL, Flyway Migration, MySQL, Docker, GIT and GITHUB.
+
+Practical experience using Spring Security to implement Authentication and Authorization,
+JWT Tokens, OAUTH 2 and Roles.
+
+I have a solid grounding in REST architecture, MVC, object orientation and data structures (arrays, stacks, queues, hashTable) and Java Collections. 
+
+I'm good with JavaScript and React.js. 
+
+Beyond code, I can communicate well in English and Spanish
+ I'm currently studying French and Russian.
 
 <h2>Connect with me!</h2>
 
